@@ -15,7 +15,7 @@ Bu proje, Flutter SDK kullanılarak oluşturulmuştur. Uygulamanın yerel ortam�
 ## Kurulum
 
 # Repoyu klonlayın
-git clone https://github.com/ufukoztp/Beymen_test_case.git
+git clone https://github.com/ufukoztp/fenix_mobile_case.git
 
 # Proje dizinine gidin
 cd fenix_mobile_case
